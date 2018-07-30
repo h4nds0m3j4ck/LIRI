@@ -11,3 +11,6 @@ exports.spotify = {
   id: process.env.SPOTIFY_ID,
   secret: process.env.SPOTIFY_SECRET
 };
+
+//Export file to liri.js... might not need this considering that I have exports up above
+//module.exports=
